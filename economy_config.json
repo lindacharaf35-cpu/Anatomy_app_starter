@@ -1,0 +1,20 @@
+{
+  "rewards": {
+    "test_correct_xp": 5,
+    "test_correct_coins": 2,
+    "streak5_bonus_xp": 15,
+    "streak5_bonus_coins": 5,
+    "set_complete_xp": 50,
+    "set_complete_coins": 20,
+    "boss_perfect_xp": 100,
+    "boss_perfect_coins": 50
+  },
+  "shop": {
+    "tiers": {
+      "beginner": {"price_range": [50, 200], "unlock_xp_min": 0},
+      "intermediate": {"price_range": [300, 700], "unlock_xp_min": 800},
+      "expert": {"price_range": [1000, 1500], "unlock_xp_min": 2500},
+      "legendary": {"price_range": [2000, 4000], "unlock_xp_min": 6000}
+    }
+  }
+}
