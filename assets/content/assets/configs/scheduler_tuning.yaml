@@ -1,0 +1,13 @@
+fam_start: 0.15
+thresholds: {learning: 0.35, known: 0.80}
+buttons: {again: -0.10, hard: 0.02, good: 0.06, easy: 0.10}
+priority_weights:
+  state: {learning: 1.0, new: 0.6, familiar: 0.25, known: 0.05}
+  fam_scale: 0.7
+  recent_penalty: 0.3
+  recent_window_cards: 3
+learning_steps:
+  after_again: [2, 4]
+  after_good: [8, 12]
+  after_easy: [20]
+new_card_cap_ratio: 0.2
