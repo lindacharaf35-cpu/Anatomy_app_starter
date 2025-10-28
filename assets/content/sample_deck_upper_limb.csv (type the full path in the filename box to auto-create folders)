@@ -1,0 +1,5 @@
+deck_id,card_id,type,prompt_text,answer_text,media_ref,tags,origin,insertion,action,innervation,blood_supply,clinical_note
+upper_limb_demo,c-biceps-origin,flashcard_cloze,Biceps brachii origin (long head): ______ tubercle of the scapula,supraglenoid,,muscles;arm;exam_high_yield,supraglenoid tubercle,radial tuberosity via bicipital aponeurosis,"Elbow flexion; forearm supination","Musculocutaneous (C5–C6)","Brachial a.","Popeye deformity if tendon ruptures"
+upper_limb_demo,l-median-nerve-forearm,label,Identify the nerve in the anterior forearm cross-section (highlighted),Median nerve,images/forearm_cross_section.png,nerves;forearm;label,,,,,Pronator syndrome: entrapment between heads of pronator teres
+upper_limb_demo,n-rotator-cuff,naming,Which muscle is NOT part of the rotator cuff? (pick one),Teres major,,muscles;shoulder;naming,,,,,SITS: supraspinatus, infraspinatus, teres minor, subscapularis
+upper_limb_demo,c-axillary-nerve,flashcard_cloze,Fracture of surgical neck of humerus injures which nerve?,Axillary nerve,,injury;shoulder;exam_high_yield,,,,,Deltoid paralysis; loss of shoulder contour
