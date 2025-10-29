@@ -1,0 +1,18 @@
+contour
+# Tags & Naming
+## Regions
+upper_limb, thorax, head_neck, lower_limb, abdomen, pelvis, back
+
+## Types
+flashcard_cloze, label, naming
+
+## Systems
+muscles, nerves, vessels, bones, dermatomes, lymph
+
+## Injury/Exam
+injury, exam_high_yield
+
+## Card IDs
+- Cloze: c-<topic> (e.g., c-biceps-origin)
+- Label: l-<structure>-<view> (e.g., l-median-nerve-forearm)
+- Naming: n-<set> (e.g., n-rotator-cuff)
