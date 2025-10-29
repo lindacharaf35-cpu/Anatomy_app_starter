@@ -1,0 +1,21 @@
+# Anatomy Study App — PRD (v0)
+## Vision
+Memorization-first anatomy app with **Learn (no-pressure, Anki-style)** and **Test (XP/coins)** + avatar cosmetics. All body regions unlocked; progress shows via character upgrades.
+
+## Target User
+Med/allied-health students needing efficient memorization + motivation.
+
+## Core Loop
+Learn → (Again/Hard/Good/Easy) → adaptive resurfacing → Test → XP/coins → Shop → repeat.
+
+## v1 Scope
+- Learn Mode: flashcards + labeling with Anki-like scheduling.
+- Test Mode: typed, labeling, naming; XP/coins rewards.
+- Progress: deck mastery bars, familiarity counts.
+- Shop: buy/equip cosmetics; no pay-to-pass.
+
+## Out of Scope (v1)
+3D models, social mode, faculty dashboards.
+
+## Success
+- D1 retention ≥ 35%, median session 3–6 min, ≥80 reviews/day (active users).
